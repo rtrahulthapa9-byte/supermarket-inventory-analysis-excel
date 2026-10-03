@@ -1,5 +1,5 @@
 
-![Image](https://github.com/rtrahulthapa9-byte/E-Commerce-Sales-Analysis-Excel-Power-Query/blob/6e15b463608a6225f09b55efeaef8db45ef7a2d8/Project_page-0001.jpg)
+![Image](Dashboard.png)
 
 # supermarket-inventory-analysis-excel
 
