@@ -1,7 +1,7 @@
 
 ![Image](image.png)
 
-# supermarket-inventory-analysis-excel
+## Supermarket-inventory-analysis-excel
 
 **Duration:** January 2024 to June 2024
 
