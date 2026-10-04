@@ -1,5 +1,5 @@
 
-![Image](Dashboard.png)
+![Image](image.png)
 
 # supermarket-inventory-analysis-excel
 
